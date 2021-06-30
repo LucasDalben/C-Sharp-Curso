@@ -1,0 +1,13 @@
+C:\Users\User\Desktop\workspace\dotNet\Basicos\ProdutoEmEstoque\ProdutoEmEstoque\bin\Debug\netcoreapp3.1\ProdutoEmEstoque.exe
+C:\Users\User\Desktop\workspace\dotNet\Basicos\ProdutoEmEstoque\ProdutoEmEstoque\bin\Debug\netcoreapp3.1\ProdutoEmEstoque.deps.json
+C:\Users\User\Desktop\workspace\dotNet\Basicos\ProdutoEmEstoque\ProdutoEmEstoque\bin\Debug\netcoreapp3.1\ProdutoEmEstoque.runtimeconfig.json
+C:\Users\User\Desktop\workspace\dotNet\Basicos\ProdutoEmEstoque\ProdutoEmEstoque\bin\Debug\netcoreapp3.1\ProdutoEmEstoque.runtimeconfig.dev.json
+C:\Users\User\Desktop\workspace\dotNet\Basicos\ProdutoEmEstoque\ProdutoEmEstoque\bin\Debug\netcoreapp3.1\ProdutoEmEstoque.dll
+C:\Users\User\Desktop\workspace\dotNet\Basicos\ProdutoEmEstoque\ProdutoEmEstoque\bin\Debug\netcoreapp3.1\ProdutoEmEstoque.pdb
+C:\Users\User\Desktop\workspace\dotNet\Basicos\ProdutoEmEstoque\ProdutoEmEstoque\obj\Debug\netcoreapp3.1\ProdutoEmEstoque.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\workspace\dotNet\Basicos\ProdutoEmEstoque\ProdutoEmEstoque\obj\Debug\netcoreapp3.1\ProdutoEmEstoque.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\workspace\dotNet\Basicos\ProdutoEmEstoque\ProdutoEmEstoque\obj\Debug\netcoreapp3.1\ProdutoEmEstoque.AssemblyInfo.cs
+C:\Users\User\Desktop\workspace\dotNet\Basicos\ProdutoEmEstoque\ProdutoEmEstoque\obj\Debug\netcoreapp3.1\ProdutoEmEstoque.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\workspace\dotNet\Basicos\ProdutoEmEstoque\ProdutoEmEstoque\obj\Debug\netcoreapp3.1\ProdutoEmEstoque.dll
+C:\Users\User\Desktop\workspace\dotNet\Basicos\ProdutoEmEstoque\ProdutoEmEstoque\obj\Debug\netcoreapp3.1\ProdutoEmEstoque.pdb
+C:\Users\User\Desktop\workspace\dotNet\Basicos\ProdutoEmEstoque\ProdutoEmEstoque\obj\Debug\netcoreapp3.1\ProdutoEmEstoque.genruntimeconfig.cache
