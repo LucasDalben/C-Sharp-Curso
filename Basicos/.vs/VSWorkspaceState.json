@@ -1,8 +1,9 @@
 {
   "ExpandedNodes": [
-    "",
+    "\\CadastroBancario\\CadastroBancario",
+    "\\MembrosEstaticos\\MembrosEstaticos",
+    "\\ProdutoEmEstoque",
     "\\ProdutoEmEstoque\\ProdutoEmEstoque"
   ],
-  "SelectedNode": "\\MembrosEstaticos",
   "PreviewInSolutionExplorer": false
 }
