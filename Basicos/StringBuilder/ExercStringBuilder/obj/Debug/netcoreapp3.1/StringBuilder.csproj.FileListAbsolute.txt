@@ -1,0 +1,4 @@
+C:\Users\User\Desktop\workspace\dotNet\Basicos\StringBuilder\StringBuilder\obj\Debug\netcoreapp3.1\StringBuilder.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\workspace\dotNet\Basicos\StringBuilder\StringBuilder\obj\Debug\netcoreapp3.1\StringBuilder.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\workspace\dotNet\Basicos\StringBuilder\StringBuilder\obj\Debug\netcoreapp3.1\StringBuilder.AssemblyInfo.cs
+C:\Users\User\Desktop\workspace\dotNet\Basicos\StringBuilder\StringBuilder\obj\Debug\netcoreapp3.1\StringBuilder.csproj.CoreCompileInputs.cache
