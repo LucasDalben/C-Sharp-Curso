@@ -1,0 +1,13 @@
+C:\Users\User\Desktop\workspace\dotNet\Topicos-especiais\Polimorfismo\PolimorfismoExerc\PolimorfismoExerc\obj\Debug\netcoreapp3.1\PolimorfismoExerc.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\workspace\dotNet\Topicos-especiais\Polimorfismo\PolimorfismoExerc\PolimorfismoExerc\obj\Debug\netcoreapp3.1\PolimorfismoExerc.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\workspace\dotNet\Topicos-especiais\Polimorfismo\PolimorfismoExerc\PolimorfismoExerc\obj\Debug\netcoreapp3.1\PolimorfismoExerc.AssemblyInfo.cs
+C:\Users\User\Desktop\workspace\dotNet\Topicos-especiais\Polimorfismo\PolimorfismoExerc\PolimorfismoExerc\obj\Debug\netcoreapp3.1\PolimorfismoExerc.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\workspace\dotNet\Topicos-especiais\Polimorfismo\PolimorfismoExerc\PolimorfismoExerc\bin\Debug\netcoreapp3.1\PolimorfismoExerc.exe
+C:\Users\User\Desktop\workspace\dotNet\Topicos-especiais\Polimorfismo\PolimorfismoExerc\PolimorfismoExerc\bin\Debug\netcoreapp3.1\PolimorfismoExerc.deps.json
+C:\Users\User\Desktop\workspace\dotNet\Topicos-especiais\Polimorfismo\PolimorfismoExerc\PolimorfismoExerc\bin\Debug\netcoreapp3.1\PolimorfismoExerc.runtimeconfig.json
+C:\Users\User\Desktop\workspace\dotNet\Topicos-especiais\Polimorfismo\PolimorfismoExerc\PolimorfismoExerc\bin\Debug\netcoreapp3.1\PolimorfismoExerc.runtimeconfig.dev.json
+C:\Users\User\Desktop\workspace\dotNet\Topicos-especiais\Polimorfismo\PolimorfismoExerc\PolimorfismoExerc\bin\Debug\netcoreapp3.1\PolimorfismoExerc.dll
+C:\Users\User\Desktop\workspace\dotNet\Topicos-especiais\Polimorfismo\PolimorfismoExerc\PolimorfismoExerc\bin\Debug\netcoreapp3.1\PolimorfismoExerc.pdb
+C:\Users\User\Desktop\workspace\dotNet\Topicos-especiais\Polimorfismo\PolimorfismoExerc\PolimorfismoExerc\obj\Debug\netcoreapp3.1\PolimorfismoExerc.dll
+C:\Users\User\Desktop\workspace\dotNet\Topicos-especiais\Polimorfismo\PolimorfismoExerc\PolimorfismoExerc\obj\Debug\netcoreapp3.1\PolimorfismoExerc.pdb
+C:\Users\User\Desktop\workspace\dotNet\Topicos-especiais\Polimorfismo\PolimorfismoExerc\PolimorfismoExerc\obj\Debug\netcoreapp3.1\PolimorfismoExerc.genruntimeconfig.cache
