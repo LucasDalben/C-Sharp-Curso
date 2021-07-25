@@ -1,0 +1,13 @@
+C:\Users\User\Desktop\workspace\dotNet\Topicos-especiais\Abstrato\MetodoAbstrato\MetodoAbstrato\bin\Debug\netcoreapp3.1\MetodoAbstrato.exe
+C:\Users\User\Desktop\workspace\dotNet\Topicos-especiais\Abstrato\MetodoAbstrato\MetodoAbstrato\bin\Debug\netcoreapp3.1\MetodoAbstrato.deps.json
+C:\Users\User\Desktop\workspace\dotNet\Topicos-especiais\Abstrato\MetodoAbstrato\MetodoAbstrato\bin\Debug\netcoreapp3.1\MetodoAbstrato.runtimeconfig.json
+C:\Users\User\Desktop\workspace\dotNet\Topicos-especiais\Abstrato\MetodoAbstrato\MetodoAbstrato\bin\Debug\netcoreapp3.1\MetodoAbstrato.runtimeconfig.dev.json
+C:\Users\User\Desktop\workspace\dotNet\Topicos-especiais\Abstrato\MetodoAbstrato\MetodoAbstrato\bin\Debug\netcoreapp3.1\MetodoAbstrato.dll
+C:\Users\User\Desktop\workspace\dotNet\Topicos-especiais\Abstrato\MetodoAbstrato\MetodoAbstrato\bin\Debug\netcoreapp3.1\MetodoAbstrato.pdb
+C:\Users\User\Desktop\workspace\dotNet\Topicos-especiais\Abstrato\MetodoAbstrato\MetodoAbstrato\obj\Debug\netcoreapp3.1\MetodoAbstrato.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\workspace\dotNet\Topicos-especiais\Abstrato\MetodoAbstrato\MetodoAbstrato\obj\Debug\netcoreapp3.1\MetodoAbstrato.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\workspace\dotNet\Topicos-especiais\Abstrato\MetodoAbstrato\MetodoAbstrato\obj\Debug\netcoreapp3.1\MetodoAbstrato.AssemblyInfo.cs
+C:\Users\User\Desktop\workspace\dotNet\Topicos-especiais\Abstrato\MetodoAbstrato\MetodoAbstrato\obj\Debug\netcoreapp3.1\MetodoAbstrato.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\workspace\dotNet\Topicos-especiais\Abstrato\MetodoAbstrato\MetodoAbstrato\obj\Debug\netcoreapp3.1\MetodoAbstrato.dll
+C:\Users\User\Desktop\workspace\dotNet\Topicos-especiais\Abstrato\MetodoAbstrato\MetodoAbstrato\obj\Debug\netcoreapp3.1\MetodoAbstrato.pdb
+C:\Users\User\Desktop\workspace\dotNet\Topicos-especiais\Abstrato\MetodoAbstrato\MetodoAbstrato\obj\Debug\netcoreapp3.1\MetodoAbstrato.genruntimeconfig.cache
